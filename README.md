@@ -14,12 +14,12 @@ This project is a personal portfolio website where I showcase my professional wo
 
 ## Technologies Used
 
-- **Backend**: [Drupal 9/10](https://www.drupal.org/)
+- **Backend**: [Drupal 10/11](https://www.drupal.org/)
   - Drupal JSON:API for serving content to the React frontend.
   - Content types include Home, About, Projects, etc.
 - **Frontend**: [React](https://reactjs.org/)
   - Fetches and displays content from Drupal using RESTful JSON:API.
-- **Styling**: [Bootstrap CSS](https://bootstrap.com/).
+- **Styling**: [React Bootstrap CSS](https://react-bootstrap.netlify.app/).
 - **Database**: MySQL (via Lando for local development).
 - **Local Development**: [Lando](https://lando.dev/) for Drupal environment setup.
 
