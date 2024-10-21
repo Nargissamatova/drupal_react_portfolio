@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { fetchContent } from "../services/api";
 import HeaderComponent from "./HeaderComponent";
 import { Container, Row, Col } from "react-bootstrap";
-import gif from "../assets/gif.gif";
 
 const Home = () => {
   const [content, setContent] = useState(null);
